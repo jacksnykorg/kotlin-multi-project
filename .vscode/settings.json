@@ -1,0 +1,6 @@
+{
+    "snyk.advanced.organization": "c3b01149-c867-4e50-b0fa-945da3c9ec5c",
+    "snyk.advanced.autoSelectOrganization": true,
+    "snyk.securityAtInception.autoConfigureSnykMcpServer": true,
+    "snyk.advanced.additionalParameters": "--all-projects"
+}
